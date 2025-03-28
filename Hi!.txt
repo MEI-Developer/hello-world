@@ -1,1 +1,2 @@
-Howdy-World!!
+Howdy-World! - removed one "!" from this line.
+My Name is Jovaughn and this is a GIT Test!
